@@ -28,7 +28,7 @@ However, the impact of deposition frequency and associated sedimentation rates o
 This study aims to reconstruct the depositional history of volcanic tephra layers in Nothofagus dombeyi forests to improve understanding of soil formation processes 
 along a north–south gradient in northern Patagonia (40°40’S to 42°5’S), Argentina. Soil profiles at eight sites on flat terrain at an elevation of around 1000 m asl., 
 reaching a depth of 1.5 m were investigated close to the Chilean border. Profiles were sampled at 10 cm intervals using composite samples from four soil cores per depth interval. 
-To establish a chronological framework and to identify periods of intense tephra deposition, in total 10 charcoal fragments were collected at horizon transitions and at several depths of 5 
+To establish a chronological framework and to identify periods of intense tephra deposition, in total 16 charcoal fragments were collected at horizon transitions and at several depths of 5 
 Profiles and ¹⁴C dated at the University of Bern. Bulk density and pH values were determined for all depth intervals. Soil carbon fractions, including total organic carbon (TOC), 
 residual organic carbon (ROC), and total inorganic carbon (TIC), were measured using a soliTOC analyzer (elementar). According to their climatic and spatial setting, profiles were 
 grouped into northern and southern sites, revealing pronounced differences in depositional regimes and sedimentation rates. Northern profiles showed substantially higher sedimentation rates, 
@@ -45,7 +45,7 @@ and carbon sequestration and stabilization in Andosols of northern Patagonia.
 <br>
 
 **Acknowledgments**:<p align="justify">
-The project is supported by funds of the 
+The project is supported by funds of the KWA-scholarship of the University of Innsbruck. 
 The authors would like to thank Prof. Dr. Helge Walentoski form the HAWK University of Applied Sciences and Arts, Faculty of Resource Management, Göttingen, Germany for the support 
 within the international and interdisciplinary research project “Sustainable forest management of temperate deciduous forests – Northern hemisphere beech and southern hemisphere beech forests” (KLIMNEM).
 </p>
