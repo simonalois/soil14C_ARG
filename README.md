@@ -1,6 +1,6 @@
 ## supplemental material to the Master Thesis of Madeleine Hill:
 
-## TEMPORAL DETERMINATION OF VOLCANIC DEPOSITS TO ASSESS SOIL DEVELOPMENT AND CARBON SEQUESTRATION IN NORTHERN PATAGONIAN FORESTS. 
+## Temporal determination of volcanic deposits to assess soil development and carbon sequestration in Northern Patagonian forests 
 
 authors:   
 Madeleine HILL<sup>1</sup>, Alois SIMON<sup>2</sup>, Virginia ALONSO<sup>3</sup>, Ernesto J. REITER<sup>4</sup>, Clemens GEITNER<sup>1</sup><br>
